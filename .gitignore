@@ -1,0 +1,26 @@
+
+*.meta
+ChrisDaniels_Assignment2_VR/.vsconfig
+ChrisDaniels_Assignment2_VR/Library
+ChrisDaniels_Assignment2_VR/Logs
+ChrisDaniels_Assignment2_VR/obj
+ChrisDaniels_Assignment2_VR/Packages
+ChrisDaniels_Assignment2_VR/ProjectSettings
+ChrisDaniels_Assignment2_VR/UserSettings
+ChrisDaniels_Assignment2_VR/Assets/XR
+ChrisDaniels_Assignment2_VR/Assets/XRI
+ChrisDaniels_Assignment2_VR/Assets/TutorialInfo
+ChrisDaniels_Assignment2_VR/Assets/TextMesh Pro
+ChrisDaniels_Assignment2_VR/Assets/Settings
+ChrisDaniels_Assignment2_VR/Assets/Scenes
+ChrisDaniels_Assignment2_VR/Assets/Samples
+ChrisDaniels_Assignment2_VR/Assets/PhysicsMaterial
+ChrisDaniels_Assignment2_VR/Assets/Models
+ChrisDaniels_Assignment2_VR/Assets/Materials
+ChrisDaniels_Assignment2_VR/Assets/Lighting Settings
+ChrisDaniels_Assignment2_VR/Assets/Images
+ChrisDaniels_Assignment2_VR/Assets/Fonts
+ChrisDaniels_Assignment2_VR/Assets/Audio
+ChrisDaniels_Assignment2_VR/Assets/Timeline
+ChrisDaniels_Assignment2_VR/Assets/Animations
+*.csproj
